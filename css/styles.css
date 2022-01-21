@@ -1,0 +1,118 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  color: #1A374D;
+  font-size: 3.5em;
+  padding: 10px;
+}
+
+h2 {
+  color: #406882;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+a {
+  color: #064663;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none
+}
+
+
+a:hover {
+  color: #EAF6F6
+}
+
+.top-container {
+  background-color: #EFF8FF;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.computer-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.ai-cloud-img {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+.contact-button {
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #1A374D;
+  border-radius: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
